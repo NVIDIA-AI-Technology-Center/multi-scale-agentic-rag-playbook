@@ -30,6 +30,6 @@ pip install -r requirements.txt
 3. Set up your NVIDIA API key:
    - Create an account at [build.nvidia.com](https://build.nvidia.com)
    - Generate an API key
-   - Create a `.env` file in the project root:
+   - (Optional) Create a `.env` file in the project root:
      ```
      NVIDIA_API_KEY=your_api_key_here
