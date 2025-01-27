@@ -18,7 +18,7 @@ A sophisticated RAG (Retrieval-Augmented Generation) system that enables intelli
 
 1. Clone the repository:
 ```bash
-git clone [https://gitlab-master.nvidia.com/isarasua/multi-scale-agentic-rag-playbook.git](https://github.com/NVIDIA-AI-Technology-Center/multi-scale-agentic-rag-playbook)
+git clone https://github.com/NVIDIA-AI-Technology-Center/multi-scale-agentic-rag-playbook
 cd multi-scale-agentic-rag-playbook
 ```
 
